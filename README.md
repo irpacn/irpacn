@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @irpacn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Quantum Computing Sciences, Artificial Intelligence, & VR/AR Production...
+- 🌱 I’m currently learning Network System Protocol,Cybersecurity threat Assessment/Prevention & Data Sciences.
+- 💞️ I’m looking to collaborate on Software/Web/App Development, System infrastructure and design, & Pentesting...
+- 📫 How to reach me add this profile as a collaborator to a project to assist with development....
+- 😄 Pronouns:them, they, those ...
+- ⚡ Fun fact: The elements, natural resources & celestial positions is the first programming language and scripting..
 
 <!---
 irpacn/irpacn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a software developer with a passion for build
 
 Skills
 Web development: HTML, CSS, JavaScript, React, Angular, Node.js
-Mobile development: Android, iOS
+Mobile development: Android, iOS,
 Desktop development: Windows, macOS, Linux
 Databases: MySQL, PostgreSQL, MongoDB
 Version control: Git, SVN
@@ -24,13 +24,13 @@ Other: Docker, Kubernetes, AWS, Azure, Google Cloud
 Projects
 Here are some of the projects that I have worked on:
 
-Project 1: A brief description of Project 1
-Project 2: A brief description of Project 2
-Project 3: A brief description of Project 3
+Project 1: Acoustic Synthesis/Oscillation/Modulation,Signal Processing/Manufacturing & Audio/Sound Design/Production 
+Project 2: Visual/Optical Engineering & Placement/Distribution 
+Project 3: Hardware Reverse Engineering Informative Audit Program, Compromised Systems Analytic Assessment Discovery Tool, & Advanced Operative Accumulative Identification Reconnaissance Research Automation Database.
 Contact
 If you have any questions or would like to get in touch with me, you can find me on the following platforms:
 
-Email: irpacn@example.com
+Email: irpacn...@example.com
 Twitter: @irpacn
 LinkedIn: irpacn
 License
